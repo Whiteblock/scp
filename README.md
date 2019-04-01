@@ -1,5 +1,5 @@
 # scp
-    import "github.com/tmc/scp"
+    import "github.com/Whiteblock/scp"
 
 Package scp provides a simple interface to copying files over a
 go.crypto/ssh session.
